@@ -1,3 +1,11 @@
+# Contact Keeper Web Application
+
+A full-stack web application using the MERN stack that lets user to save and keep track of their contacts. Implemented Context API and useReducer hook to create action creators and reducers and routing with React-Router.
+
+Developed a simple RESTful API and server to handle the routes using the Node.js and Express with MongoDB(MongooseJS ODM) as the database.
+
+Backend Code, **[click here](https://github.com/nmudd037/contactKeeper-server)**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
